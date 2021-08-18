@@ -1,0 +1,8 @@
+//
+// Created by 86132 on 2021/8/18.
+//
+
+#ifndef FIRSTTEST_CONFIG_FUNC_H
+#define FIRSTTEST_CONFIG_FUNC_H
+
+#endif //FIRSTTEST_CONFIG_FUNC_H
